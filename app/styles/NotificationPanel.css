@@ -1,0 +1,92 @@
+/* Container for the right sidebar */
+.notification-bar-container {
+  position: fixed;
+  top: 0;
+  right: 0;
+  height: 100vh;
+  width: 490px !important;
+  transition: transform 0.3s ease;
+  z-index: 1000;
+}
+
+/* Initially hidden off-screen */
+.notification-bar-container.hidden {
+  transform: translateX(100%); /* Moves the sidebar completely out of view */
+}
+
+/* Visible when hovered */
+.notification-bar-container.visible {
+  transform: translateX(0); /* Moves the sidebar back into view */
+}
+
+.notification-panel {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 490px !important;
+  overflow-y: auto;
+  background-color: #f1f1f1;
+  color: #4c4c4c;
+  z-index: 1000;
+  transition: width 0.3s !important; /* Smooth transition for the width */
+  box-shadow: -2px 0 5px rgba(0, 0, 0, 0.1);
+}
+
+/* New style for the bottom section */
+.notification-bar-top {
+  position: absolute; /* Position it at the bottom of the sidebar */
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 70px; /* Height of the bottom section */
+  background-color: #ffffff; /* Blue background color */
+  color: #4c4c4c; /* Text color */
+  display: flex; /* Flexbox for alignment */
+  justify-content: center; /* Center the text horizontally */
+  align-items: center; /* Center the text vertically */
+}
+
+/* Each notification item */
+.notification-item {
+  width: 490px;
+  height: 130px;
+  background-color: #f1f1f1;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 10px;
+  position: relative;
+  border-top: 0.5px solid #ccc; /* Top border */
+  border-bottom: 0.5px solid #ccc; /* Bottom border */
+}
+
+/* Clear button inside each notification item */
+.notification-item .clear-btn {
+  position: absolute;
+  right: 10px;
+  top: 5px;
+  background: none;
+  border: none;
+  color: #666;
+  cursor: pointer;
+}
+
+.notification-item .clear-btn:hover {
+  color: #333;
+}
+
+.notification-category {
+  margin-top: 30px;
+}
+
+.category-title {
+  font-weight: bold;
+  color: #444;
+}
+
+/* Adjust for buttons in action section */
+.notification-bar-top,
+.flex.justify-between {
+  padding: 10px;
+}

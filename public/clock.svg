@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+    <defs>
+        <style>
+            .prefix__cls-2{fill:#adadad}
+        </style>
+    </defs>
+    <g id="prefix__Grupo_5404" data-name="Grupo 5404" transform="translate(-800 -1286)">
+        <g id="prefix__Grupo_4650" data-name="Grupo 4650">
+            <path id="prefix__Retângulo_2452" d="M0 0H48V48H0z" data-name="Retângulo 2452" transform="translate(800 1286)" style="fill:none"/>
+        </g>
+        <g id="prefix__clock" transform="translate(809 1295.5)">
+            <path id="prefix__Caminho_5014" d="M15 30a15 15 0 1 1 15-15 15.017 15.017 0 0 1-15 15zm0-28.125A13.125 13.125 0 1 0 28.125 15 13.139 13.139 0 0 0 15 1.875zm0 0" class="prefix__cls-2" data-name="Caminho 5014"/>
+            <path id="prefix__Caminho_5015" d="M247.5 118.52a.93.93 0 0 1-.663-.275l-6.562-6.562a.938.938 0 0 1-.275-.662v-8.75a.938.938 0 0 1 1.875 0v8.361l6.288 6.288a.938.938 0 0 1-.663 1.6zm0 0" class="prefix__cls-2" data-name="Caminho 5015" transform="translate(-225.938 -95.395)"/>
+        </g>
+    </g>
+</svg>

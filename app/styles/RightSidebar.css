@@ -1,0 +1,41 @@
+/* Container for the right sidebar */
+.right-sidebar-container {
+  position: fixed;
+  top: 0;
+  right: 0;
+  height: 100vh;
+  width: 250px;
+  transition: transform 0.3s ease;
+  z-index: 1000;
+}
+
+/* Initially hidden off-screen */
+.right-sidebar-container.hidden {
+  transform: translateX(100%); /* Moves the sidebar completely out of view */
+}
+
+/* Visible when hovered */
+.right-sidebar-container.visible {
+  transform: translateX(0); /* Moves the sidebar back into view */
+}
+
+/* Custom sidebar appearance */
+.custom-sidebar {
+  height: 100%;
+  background-color: white;
+  box-shadow: -2px 0 5px rgba(0, 0, 0, 0.1);
+}
+
+/* New style for the bottom section */
+.sidebar-top {
+  position: absolute; /* Position it at the bottom of the sidebar */
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 70px; /* Height of the bottom section */
+  background-color: #34bcff; /* Blue background color */
+  color: white; /* Text color */
+  display: flex; /* Flexbox for alignment */
+  justify-content: center; /* Center the text horizontally */
+  align-items: center; /* Center the text vertically */
+}

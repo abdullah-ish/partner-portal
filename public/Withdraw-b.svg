@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="prefix__Withdraw" width="48" height="48" viewBox="0 0 48 48">
+    <defs>
+        <style>
+            .prefix__cls-2{fill:#828282}
+        </style>
+    </defs>
+    <path id="prefix__Retângulo_2727" d="M0 0H48V48H0z" data-name="Retângulo 2727" style="fill:none"/>
+    <g id="prefix___006-withdraw" data-name="006-withdraw" transform="translate(12 12)">
+        <g id="prefix__Grupo_5239" data-name="Grupo 5239">
+            <g id="prefix__Grupo_5238" data-name="Grupo 5238">
+                <path id="prefix__Caminho_4955" d="M173.841 263.911l-1.732 1.711v-8.685a.937.937 0 0 0-1.875 0v8.592l-1.638-1.619a.938.938 0 1 0-1.318 1.334l1.949 1.926a2.806 2.806 0 0 0 3.981 0l1.949-1.926a.938.938 0 0 0-1.318-1.334z" class="prefix__cls-2" data-name="Caminho 4955" transform="translate(-159.172 -244)"/>
+                <path id="prefix__Caminho_4956" d="M324.25 276a.937.937 0 0 0-.937.938 1.877 1.877 0 0 1-1.875 1.875h-4.5a.938.938 0 0 0 0 1.875h4.5a3.754 3.754 0 0 0 3.75-3.75.937.937 0 0 0-.938-.938z" class="prefix__cls-2" data-name="Caminho 4956" transform="translate(-301.188 -263.063)"/>
+                <path id="prefix__Caminho_4957" d="M162.321 87.078a.937.937 0 0 0 1.3-.281 5.273 5.273 0 0 0 .852-2.857 4.745 4.745 0 1 0-9.469 0 5.153 5.153 0 0 0 .808 2.861.937.937 0 0 0 1.572-1.022 3.312 3.312 0 0 1-.5-1.838 2.876 2.876 0 1 1 5.719 0 3.4 3.4 0 0 1-.554 1.842.938.938 0 0 0 .272 1.295z" class="prefix__cls-2" data-name="Caminho 4957" transform="translate(-147.734 -75.181)"/>
+                <circle id="prefix__Elipse_138" cx=".938" cy=".938" r=".938" class="prefix__cls-2" data-name="Elipse 138" transform="translate(18.516 7.828)"/>
+                <circle id="prefix__Elipse_139" cx=".938" cy=".938" r=".938" class="prefix__cls-2" data-name="Elipse 139" transform="translate(3.609 7.828)"/>
+                <path id="prefix__Caminho_4958" d="M20.25 0H3.75A3.754 3.754 0 0 0 0 3.75v10.125a3.754 3.754 0 0 0 3.75 3.75h4.5a.937.937 0 1 0 0-1.875h-4.5a1.877 1.877 0 0 1-1.875-1.875V3.75A1.877 1.877 0 0 1 3.75 1.875h16.5a1.877 1.877 0 0 1 1.875 1.875v5.438a.938.938 0 0 0 1.875 0V3.75A3.754 3.754 0 0 0 20.25 0z" class="prefix__cls-2" data-name="Caminho 4958"/>
+            </g>
+        </g>
+    </g>
+</svg>

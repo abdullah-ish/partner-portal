@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="188" height="188" viewBox="0 0 188 188">
+    <defs>
+        <filter id="prefix__Back_circle" width="188" height="188" x="0" y="0" filterUnits="userSpaceOnUse">
+            <feOffset/>
+            <feGaussianBlur result="blur" stdDeviation="7.5"/>
+            <feFlood flood-opacity=".251"/>
+            <feComposite in2="blur" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+    </defs>
+    <g id="prefix__Group_4817" data-name="Group 4817" transform="translate(-643.5 -423.5)">
+        <g transform="translate(643.5 423.5)">
+            <circle id="prefix__Back_circle-2" cx="71.5" cy="71.5" r="71.5" data-name="Back circle" transform="translate(22.5 22.5)" style="fill:#046B9F"/>
+        </g>
+        <path id="prefix__Path_3365" d="M131.816 11267l17.258 25.359 19.063-46.918" data-name="Path 3365" transform="translate(587.49 -10751.553)" style="fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;stroke-width:8px"/>
+    </g>
+</svg>

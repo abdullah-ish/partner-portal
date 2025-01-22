@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+    <defs>
+        <style>
+            .prefix__cls-1{fill:none;stroke:#adadad;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px}
+        </style>
+    </defs>
+    <g id="prefix__Grupo_4647" data-name="Grupo 4647" transform="translate(-800 -1226)">
+        <g id="prefix__Icon_feather-mail" data-name="Icon feather-mail" transform="translate(809 1238.001)">
+            <path id="prefix__Caminho_2236" d="M6.005 6h24.042a3.015 3.015 0 0 1 3.005 3.007v18.04a3.015 3.015 0 0 1-3.005 3.007H6.005A3.015 3.015 0 0 1 3 27.047V9.007A3.015 3.015 0 0 1 6.005 6z" class="prefix__cls-1" data-name="Caminho 2236" transform="translate(-3 -6)"/>
+            <path id="prefix__Caminho_2237" d="M33.052 9L18.026 19.524 3 9" class="prefix__cls-1" data-name="Caminho 2237" transform="translate(-3 -5.993)"/>
+        </g>
+        <path id="prefix__Retângulo_2451" d="M0 0H48V48H0z" data-name="Retângulo 2451" transform="translate(800 1226)" style="fill:none"/>
+    </g>
+</svg>

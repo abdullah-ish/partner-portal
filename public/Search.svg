@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="prefix__search" width="48" height="48" viewBox="0 0 48 48">
+    <defs>
+        <style>
+            .prefix__cls-1{fill:none;stroke:#b2b2b2;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px}
+        </style>
+    </defs>
+    <g id="prefix__Icon_feather-search" data-name="Icon feather-search" transform="translate(14 15)">
+        <path id="prefix__Caminho_2169" d="M20.625 12.478A8.063 8.063 0 1112.562 4.5a8.021 8.021 0 018.062 7.978z" class="prefix__cls-1" data-name="Caminho 2169" transform="translate(-4.5 -4.5)"/>
+        <path id="prefix__Caminho_2170" d="M29.466 29.42l-4.491-4.445" class="prefix__cls-1" data-name="Caminho 2170" transform="translate(-11.277 -11.42)"/>
+    </g>
+    <path id="prefix__Retângulo_2387" d="M0 0H48V48H0z" data-name="Retângulo 2387" style="fill:none"/>
+</svg>

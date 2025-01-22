@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="prefix__Accounts" width="48" height="48" viewBox="0 0 48 48">
+    <defs>
+        <style>
+            .prefix__cls-2{fill:#828282}
+        </style>
+    </defs>
+    <path id="prefix__Retângulo_2709" d="M0 0H48V48H0z" data-name="Retângulo 2709" style="fill:none"/>
+    <g id="prefix___005-bank" data-name="005-bank" transform="translate(12 10.001)">
+        <g id="prefix__Grupo_5237" data-name="Grupo 5237" transform="translate(0 1.999)">
+            <g id="prefix__Grupo_5236" data-name="Grupo 5236">
+                <circle id="prefix__Elipse_137" cx=".945" cy=".945" r=".945" class="prefix__cls-2" data-name="Elipse 137" transform="translate(11.15 4.063)"/>
+                <path id="prefix__Caminho_4953" d="M23.244 470H.945a.945.945 0 000 1.89h22.3a.945.945 0 000-1.89z" class="prefix__cls-2" data-name="Caminho 4953" transform="translate(0 -447.89)"/>
+                <path id="prefix__Caminho_4954" d="M24.189 7.9a.945.945 0 00-.561-.864L12.454 2.081a.945.945 0 00-.768 0L.56 7.042A.945.945 0 000 7.9v2.548a.945.945 0 00.945.945.841.841 0 01.8.945V21.268a.945.945 0 00.945.945h18.9a.945.945 0 100-1.89h-2.834v-7.977a.945.945 0 011.89 0v4.182a.945.945 0 001.89 0v-4.182c0-.222.051-.945.709-.945a.945.945 0 00.945-.945v-.024-.024zM5.528 20.33h-1.89v-7.984a.945.945 0 111.89 0zm3.78 0H7.417v-7.984a.945.945 0 111.89 0zm3.78 0H11.2v-7.984a.945.945 0 011.89 0zm3.78 0h-1.89v-7.984a.945.945 0 011.89 0zM22.3 9.464H1.89v-.946l10.182-4.54L22.3 8.519z" class="prefix__cls-2" data-name="Caminho 4954" transform="translate(0 -1.999)"/>
+            </g>
+        </g>
+    </g>
+</svg>
